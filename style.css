@@ -2,6 +2,10 @@ table, th, td {
     border: 1px solid black;
 }
 
-.tracker{
+.user{
    font-weight: bold;
+}
+
+.activity{
+    margin-left: 25px;
 }
